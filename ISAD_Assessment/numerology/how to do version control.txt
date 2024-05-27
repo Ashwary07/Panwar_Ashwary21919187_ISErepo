@@ -1,0 +1,13 @@
+Version Control with Git
+Setup Git Repository:
+Initialize Git: 
+Open your terminal.
+Navigate to your project's root directory.
+Run git init to initialize a new Git repository.
+Directory Structure:
+Ensure your project has a code directory for Python scripts and a documents directory for documentation.
+Use the mkdir command to create these directories if they do not exist.
+Basic Git Commands:
+Add files: git add <filename> or git add . to add all changes.
+Commit changes: git commit -m "Your commit message"
+
